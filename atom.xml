@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linyunfeng201203.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-15T14:46:31.181Z</updated>
+    <updated>2020-03-15T14:59:30.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linyunfeng201203.github.io"/>
     <link rel="self" href="https://linyunfeng201203.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://linyunfeng201203.github.io/images/avatar.png</logo>
     <icon>https://linyunfeng201203.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[第二弹~~图片要压缩处理一下这样打开速度才会快]]></title>
+        <id>https://linyunfeng201203.github.io/post/di-er-dan-~~tu-pian-yao-ya-suo-chu-li-yi-xia-zhe-yang-da-kai-su-du-cai-hui-kuai/</id>
+        <link href="https://linyunfeng201203.github.io/post/di-er-dan-~~tu-pian-yao-ya-suo-chu-li-yi-xia-zhe-yang-da-kai-su-du-cai-hui-kuai/">
+        </link>
+        <updated>2020-03-15T14:57:43.000Z</updated>
+        <content type="html"><![CDATA[<p>图片来喽<br>
+<img src="https://linyunfeng201203.github.io/post-images/1584284294724.jpg" alt="" loading="lazy"><br>
+<img src="https://linyunfeng201203.github.io/post-images/1584284303198.jpg" alt="" loading="lazy"><br>
+好看就点赞吧</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自己建立的小网站~~~来看看吧（林云峰）]]></title>
         <id>https://linyunfeng201203.github.io/post/zi-ji-jian-li-de-xiao-wang-zhan-~~~lai-kan-kan-ba-lin-yun-feng/</id>
